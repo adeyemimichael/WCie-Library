@@ -19,7 +19,6 @@ export default function EditProfileScreen() {
          <Text style={styles.title}>Edit Profile</Text>
          <View style={{ width: 28 }} />
       </View>
-
       <ScrollView contentContainerStyle={styles.content}>
          <View style={styles.avatarSection}>
             <View style={styles.avatar}>
