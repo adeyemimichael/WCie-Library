@@ -4,9 +4,7 @@ import { Colors, Fonts, Spacing, Radii } from '../theme';
 import { Button } from '../components/Button';
 
 export default function WelcomeScreen() {
-  // For now, let's keep it as an onboarding that leads to Auth
-  // In a real app we'd check if user is authenticated and redirect to (tabs)
-  
+ 
   return (
     <View style={styles.container}>
       {/* Top Graphic Placeholder */}
